@@ -1,11 +1,11 @@
 <img src="https://github.com/Halmesn/Halmesn/blob/main/assets/github.gif" />
 
-<h2>Hey 👋, I'm <a href="https://https://github.com/Halmesn">Adrian Li</a></h2>
+<h2>Hey 👋, I'm <a href="https://github.com/Halmesn">Adrian Li</a></h2>
 
 <p>I'm a self-taught Front-end developer as well as a passionate learner from Brisbane Australia🦘. I used to be a journalist✍️ for couple of years then I decided to change my career.🤓</p> 
 <p>I love to explore new technologies💡 and leverage them to solve real-life problems ✨. Apart from that, I also want to be a teacher and guide newbies in the future. 👨‍🏫.</p>
 
-<p><a href="https://https://github.com/Halmesn"><img src="https://img.shields.io/badge/-adrianli.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://https://github.com/Halmesn" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/adrian-li-332395208/"><img src="https://img.shields.io/badge/-@Adrian Li-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/adrian-li-332395208/" alt="LinkedIn Badge"></a> <img src="https://komarev.com/ghpvc/?username=halmesn&logoColor=white&color=59cdff" alt="halmesn" /></p>
+<p><a href="https://github.com/Halmesn"><img src="https://img.shields.io/badge/-adrianli.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://github.com/Halmesn" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/adrian-li-332395208/"><img src="https://img.shields.io/badge/-@Adrian Li-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/adrian-li-332395208/" alt="LinkedIn Badge"></a> <img src="https://komarev.com/ghpvc/?username=halmesn&logoColor=white&color=59cdff" alt="halmesn" /></p>
   
 <img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
@@ -13,15 +13,15 @@
 
 - 🔭 &nbsp; I’m currently working on **my portfolio-v1**.
 - 🤝 &nbsp; I’m looking for a front-end develoment job at this moment.
-- 🌱 &nbsp; I’m currently learning [React Epic Cours](https://epicreact.dev/) by Kent C. Dodds; 
-- 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://https://github.com/Halmesn)
+- 🌱 &nbsp; I’m currently learning [React Epic Course](https://epicreact.dev/) by Kent C. Dodds; 
+- 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/)
 - 📫 &nbsp; How to reach me: xiaxi.li.syd@gmail.com
  ### ⚡ Fun facts:
 - 💪 &nbsp; I'm a gym rat. Checkout my [Instagram](https://www.instagram.com/xiaxi.lifts/) to see my workouts.
-- 🎮 &nbsp; When I am free, I play video games on PS4. Friend me on [PSN](https://my.playstation.com/profile/Halmesn).
+- 🎮 &nbsp; In my spare time, I play video games on PS4. Friend me on [PSN](https://my.playstation.com/profile/Halmesn).
 
 ### 🔨 Languages and Tools:
   <p>
