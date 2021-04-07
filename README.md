@@ -13,7 +13,7 @@
 
 - 🔭 &nbsp; I’m currently working on **my portfolio-v1**.
 - 🤝 &nbsp; I’m looking for a front-end develoment job at this moment.
-- 🌱 &nbsp; I’m currently learning [React Epic Course](https://epicreact.dev/) by Kent C. Dodds; 
+- 🌱 &nbsp; I’m currently learning [NextJs Course](https://www.udemy.com/course/nextjs-react-the-complete-guide/) by Maximilian Schwarzmüller.
 - 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
@@ -30,6 +30,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-46a2f1?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
