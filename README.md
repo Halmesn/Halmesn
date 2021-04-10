@@ -11,7 +11,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **my portfolio-v1**.
+- 🔭 &nbsp; I’m currently working on **my portfolio**.
 - 🤝 &nbsp; I’m looking for a front-end develoment job at this moment.
 - 🌱 &nbsp; I’m currently learning [NextJs Course](https://www.udemy.com/course/nextjs-react-the-complete-guide/) by Maximilian Schwarzmüller.
 - 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
