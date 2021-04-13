@@ -1,6 +1,6 @@
 <img src="https://github.com/Halmesn/Halmesn/blob/main/assets/github.gif" />
 
-<h2>Hey 👋, I'm <a href="https://adrianli.vercel.app/">Adrian Li</a></h2>
+<h2>Hey👋, I'm <a href="https://adrianli.vercel.app/">Adrian Li</a></h2>
 
 <p>I'm a self-taught Front-end developer as well as a passionate learner from Brisbane Australia🦘. I used to be a writer✍️ for couple of years then I decided to change my career.🤓</p> 
 <p>I love to explore new technologies💡 and leverage them to solve real-life problems ✨. Apart from that, I also want to be a teacher and guide newbies in the future. 👨‍🏫.</p>
@@ -69,12 +69,12 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/halmesn/project-name"><b>🚀 project-name</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/project-name?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/project-name?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/project-name?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/halmesn/project-name?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/project-name?style=flat-square"/></td>
+	      <td><a href="https://github.com/halmesn/portfolio-v1"><b>🚀 My portfolio</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/portfolio-v1?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/portfolio-v1?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/portfolio-v1?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/halmesn/portfolio-v1?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/portfolio-v1?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/halmesn/project-name"><b>💸 project-name</b></a></td>
