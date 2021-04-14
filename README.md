@@ -7,7 +7,7 @@
 
 <p><a href="https://adrianli.vercel.app/"><img src="https://img.shields.io/badge/-My portfolio-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://github.com/Halmesn" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/adrian-li-332395208/"><img src="https://img.shields.io/badge/-@Adrian Li-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/adrian-li-332395208/" alt="LinkedIn Badge"></a> <img src="https://komarev.com/ghpvc/?username=halmesn&logoColor=white&color=59cdff" alt="halmesn" /></p>
   
-<img align="right" src="https://github.com/Halmesn/Halmesn/blob/main/assets/javascript.jpg" width="360px"/>
+<img align="right" src="https://github.com/Halmesn/Halmesn/blob/main/assets/javascript.jpg" width="360px" height="395px"/>
 
 ### 🧐 More About Me:
 
