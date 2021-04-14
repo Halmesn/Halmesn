@@ -3,7 +3,8 @@
 <h2>Hey👋, I'm <a href="https://adrianli.vercel.app/">Adrian Li</a></h2>
 
 <p>I'm a self-taught Front-end developer as well as a passionate learner from Brisbane Australia🦘. I used to be a writer✍️ for couple of years then I decided to change my career.🤓</p> 
-<p>I love to explore new technologies💡 and leverage them to solve real-life problems ✨. Apart from that, I also want to be a teacher and guide newbies in the future. 👨‍🏫.</p>
+<p>I love to spend hours and hours building things👨‍💻, resolving problems✨, and learning new technologies💡. </p>
+<p><b>Programming makes me a happy man.😄</b></p>
 
 <p><a href="https://adrianli.vercel.app/"><img src="https://img.shields.io/badge/-My portfolio-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://github.com/Halmesn" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/adrian-li-332395208/"><img src="https://img.shields.io/badge/-@Adrian Li-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/adrian-li-332395208/" alt="LinkedIn Badge"></a> <img src="https://komarev.com/ghpvc/?username=halmesn&logoColor=white&color=59cdff" alt="halmesn" /></p>
   
