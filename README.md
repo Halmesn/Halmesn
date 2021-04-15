@@ -14,7 +14,7 @@
 
 - 🔭 &nbsp; I’m currently working on **[my portfolio](https://github.com/Halmesn/portfolio-v1)**.
 - 🤝 &nbsp; I’m looking for a front-end develoment job at this moment.
-- 🌱 &nbsp; I’m learning [NextJs Course](https://www.udemy.com/course/nextjs-react-the-complete-guide/) by Maximilian Schwarzmüller at this moment.
+- 🌱 &nbsp; I’m learning [NextJs Course](https://www.udemy.com/course/nextjs-react-the-complete-guide/) at this moment.
 - 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
