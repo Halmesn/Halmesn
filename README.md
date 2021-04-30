@@ -12,7 +12,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **[my portfolio](https://github.com/Halmesn/portfolio-v1)**.
+- 🔭 &nbsp; I’m currently working on **[Nextflix]https://github.com/Halmesn/Nextflix)**.
 - 🤝 &nbsp; I’m looking for a front-end develoment job at this moment.
 - 🌱 &nbsp; I’m learning [NextJs](https://www.udemy.com/course/nextjs-react-the-complete-guide/) at this moment.
 - 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
