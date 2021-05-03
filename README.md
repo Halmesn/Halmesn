@@ -6,7 +6,7 @@
 <p>I love to spend hours and hours building things👨‍💻, resolving problems✨, and learning new technologies💡. </p>
 <p><b>Programming makes me a happy man.😄</b></p>
 
-<p><a href="https://adrianli.vercel.app/"><img src="https://img.shields.io/badge/-My portfolio-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://github.com/Halmesn" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/adrian-li-332395208/"><img src="https://img.shields.io/badge/-@Adrian Li-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/adrian-li-332395208/" alt="LinkedIn Badge"></a> <img src="https://komarev.com/ghpvc/?username=halmesn&logoColor=white&color=59cdff" alt="halmesn" /></p>
+<p><a href="https://adrianli.vercel.app/"><img src="https://img.shields.io/badge/-My portfolio-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=vercel&amp;link=https://adrianli.vercel.app/" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/adrian-li-332395208/"><img src="https://img.shields.io/badge/-@Adrian Li-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/adrian-li-332395208/" alt="LinkedIn Badge"></a> <img src="https://komarev.com/ghpvc/?username=halmesn&logoColor=white&color=59cdff" alt="halmesn" /></p>
   
 <img align="right" src="https://github.com/Halmesn/Halmesn/blob/main/assets/javascript.jpg" width="360px" height="365px"/>
 
@@ -31,7 +31,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-46a2f1?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=next.js&logoColor=black" />
+  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
