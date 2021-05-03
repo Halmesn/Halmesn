@@ -18,7 +18,7 @@
 - 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/)
+- 📝 &nbsp; Checkout my [resume](https://adrianli.vercel.app/)
 - 📫 &nbsp; How to reach me: xiaxi.li.syd@gmail.com
  ### ⚡ Fun facts:
 - 💪 &nbsp; I'm a gym rat. Checkout my [Instagram](https://www.instagram.com/xiaxi.lifts/) to see my workouts.
