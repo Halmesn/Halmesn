@@ -14,7 +14,7 @@
 
 - 🔭 &nbsp; I’m currently working on **[Nextflix](https://github.com/Halmesn/Nextflix)**.
 - 🤝 &nbsp; I’m looking for a front-end develoment job at this moment.
-- 🌱 &nbsp; I’m learning [NextJs](https://www.udemy.com/course/nextjs-react-the-complete-guide/) at this moment.
+- 🌱 &nbsp; I’m learning [Nextjs](https://www.udemy.com/course/nextjs-react-the-complete-guide/) at this moment.
 - 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
@@ -43,7 +43,7 @@
 <details>	
   <summary><b>📊 Github Stats</b></summary>
 	
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=halmesn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halmesn&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=halmesn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=halmesn&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
@@ -69,7 +69,7 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/halmesn/portfolio-v1"><b>🚀 My portfolio</b></a></td>
+	<td><a href="https://github.com/halmesn/portfolio-v1"><b>🚀 My portfolio</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/portfolio-v1?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/portfolio-v1?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/portfolio-v1?style=flat-square"/></td>
@@ -77,15 +77,15 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/portfolio-v1?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/halmesn/project-name"><b>💸 project-name</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/project-name?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/project-name?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/project-name?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/halmesn/project-name?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/project-name?&style=flat-square"/></td>
+	<td><a href="https://github.com/halmesn/Nextflix"><b>🍿 Nextflix</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/Nextflix?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/Nextflix?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/Nextflix?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/halmesn/Nextflix?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/Nextflix?&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/halmesn/project-name"><b>👨🏻‍💻 project-name</b></a></td>
+	<td><a href="https://github.com/halmesn/project-name"><b>👨🏻‍💻 project-name</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/project-name?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/project-name?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/project-name?style=flat-square"/></td>
@@ -93,7 +93,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/project-name?style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/halmesn/project-name"><b>🤓 project-name</b></a></td>
+	<td><a href="https://github.com/halmesn/project-name"><b>🤓 project-name</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/project-name?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/project-name?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/project-name?style=flat-square"/></td>
