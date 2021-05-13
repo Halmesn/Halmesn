@@ -15,7 +15,7 @@
 - 🔭 &nbsp; I’m currently working on **[Nextflix](https://github.com/Halmesn/Nextflix)**.
 - 🤝 &nbsp; I’m looking for a front-end develoment job at this moment.
 - 🌱 &nbsp; I’m learning [Nextjs](https://www.udemy.com/course/nextjs-react-the-complete-guide/) at this moment.
-- 📖 &nbsp; I'm planning to learn these things next:vanilla JS in-depth, TypeScript, advanced React patterns and testing;
+- 📖 &nbsp; I'm planning to learn these things next: vanilla JS in-depth, TypeScript, advanced React patterns and testing;
 - 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
 - 📝 &nbsp; Checkout my [resume](https://adrianli.vercel.app/)
