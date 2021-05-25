@@ -12,9 +12,10 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **[Nextflix](https://github.com/Halmesn/Nextflix)**.
+- 🔥 &nbsp;  One of my projects got 3.4k upvotes on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
+- 🔭 &nbsp; I’m currently working on **[my portfolio](https://github.com/Halmesn/portfolio-v1)**.
 - 🤝 &nbsp; I’m looking for a front-end develoment job at this moment.
-- 🌱 &nbsp; I’m learning [Nextjs](https://www.udemy.com/course/nextjs-react-the-complete-guide/) at this moment.
+- 🌱 &nbsp; I’m preparing [Front End interviews](https://h5bp.org/Front-end-Developer-Interview-Questions/questions/general-questions/) at this moment.
 - 📖 &nbsp; I'm planning to learn these things next: vanilla JS in-depth, TypeScript, advanced React patterns and testing;
 - 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
@@ -77,12 +78,12 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/portfolio-v1?style=flat-square"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/halmesn/Nextflix"><b>🍿 Nextflix</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/Nextflix?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/Nextflix?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/Nextflix?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/halmesn/Nextflix?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/Nextflix?&style=flat-square"/></td>
+	<td><a href="https://github.com/halmesn/Hotflix"><b>🍿 Hotflix</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/Hotflix?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/Hotflix?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/Hotflix?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/halmesn/Hotflix?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/Hotflix?&style=flat-square"/></td>
       </tr>
       <tr>
 	<td><a href="https://github.com/halmesn/project-name"><b>👨🏻‍💻 project-name</b></a></td>
