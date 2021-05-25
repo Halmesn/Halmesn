@@ -12,7 +12,7 @@
 
 ### 🧐 More About Me:
 
-- 🔥 &nbsp;  One of my projects got 3.4k upvotes on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
+- 🔥 &nbsp;  One of my projects got **3.4k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
 - 🔭 &nbsp; I’m currently working on **[my portfolio](https://github.com/Halmesn/portfolio-v1)**.
 - 🤝 &nbsp; I’m looking for a front-end develoment job at this moment.
 - 🌱 &nbsp; I’m preparing [Front End interviews](https://h5bp.org/Front-end-Developer-Interview-Questions/questions/general-questions/) at this moment.
