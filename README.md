@@ -20,7 +20,7 @@
 - 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
 - 📝 &nbsp; Checkout my [resume](https://adrianli.vercel.app/)
-- 📫 &nbsp; How to reach me: xiaxi.li.syd@gmail.com
+- 📫 &nbsp; How to reach me: adrian.li.dev@gmail.com
  ### ⚡ Fun facts:
 - 💪 &nbsp; I'm a gym rat. Checkout my [Instagram](https://www.instagram.com/xiaxi.lifts/) to see my workouts.
 - 🎮 &nbsp; In my spare time, I play video games on PS4. Friend me on [PSN](https://my.playstation.com/profile/Halmesn).
