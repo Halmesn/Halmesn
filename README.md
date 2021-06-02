@@ -19,7 +19,7 @@
 - 📖 &nbsp; I'm planning to learn these things next: vanilla JS in-depth, TypeScript, advanced React patterns and testing;
 - 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
-- 📝 &nbsp; Checkout my [resume](https://adrianli.vercel.app/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Neh66oJyiG87217mAF55pRB-Lr48LvYK/view)
 - 📫 &nbsp; How to reach me: adrian.li.dev@gmail.com
  ### ⚡ Fun facts:
 - 💪 &nbsp; I'm a gym rat. Checkout my [Instagram](https://www.instagram.com/xiaxi.lifts/) to see my workouts.
