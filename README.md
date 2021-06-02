@@ -70,7 +70,7 @@
     </thead>
     <tbody>
       <tr>
-	<td><a href="https://github.com/halmesn/portfolio-v1"><b>🚀 My portfolio</b></a></td>
+	<td><a href="https://github.com/halmesn/portfolio-v1"><b>🚀 Portfolio-v1</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/portfolio-v1?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/portfolio-v1?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/portfolio-v1?style=flat-square"/></td>
