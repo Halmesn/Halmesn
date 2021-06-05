@@ -13,10 +13,10 @@
 ### 🧐 More About Me:
 
 - 🔥 &nbsp;  One of my projects got **3.4k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
-- 🔭 &nbsp; I’m currently building **[Griddy](https://github.com/Halmesn/Griddy)**.
-- 🤝 &nbsp; I’m looking for a front-end develoment job at this moment.
-- 🌱 &nbsp; I’m preparing [Front End interviews](https://h5bp.org/Front-end-Developer-Interview-Questions/questions/general-questions/) now.
-- 📖 &nbsp; I'll learn these things next: vanilla JS in-depth, TypeScript, advanced React patterns and testing;
+- 🔭 &nbsp; I’m currently building **[Griddy](https://github.com/Halmesn/Griddy)**
+- 🤝 &nbsp; I’m looking for a front-end develoment job at this moment
+- 🌱 &nbsp; I’m preparing [Front End interviews](https://h5bp.org/Front-end-Developer-Interview-Questions/questions/general-questions/) now
+- 📖 &nbsp; I'm planning to learn TypeScript next
 - 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Neh66oJyiG87217mAF55pRB-Lr48LvYK/view)
