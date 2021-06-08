@@ -2,7 +2,7 @@
 
 <h2>Hey👋, I'm <a href="https://adrianli.vercel.app/">Adrian Li</a></h2>
 
-<p>I'm a self-taught Front-end developer as well as a passionate learner from Brisbane Australia🦘. I used to be a writer✍️ for couple of years then I decided to change my career.🤓</p> 
+<p>I'm a self-taught Front-end developer as well as a passionate learner from Brisbane Australia🦘. I used to be a digital media editor✍️ for couple of years then I decided to change my career.🤓</p> 
 <p>I love to spend hours and hours building things👨‍💻, resolving problems✨, and learning new technologies💡. </p>
 <p><b>Programming makes me a happy man.😄</b></p>
 
