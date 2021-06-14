@@ -86,7 +86,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/Hotflix?&style=flat-square"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/halmesn/project-name"><b>🍀 Griddy</b></a></td>
+	<td><a href="https://github.com/halmesn/Griddy"><b>🍀 Griddy</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/Griddy?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/Griddy?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/Griddy?style=flat-square"/></td>
@@ -94,12 +94,12 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/Griddy?style=flat-square"/></td> 
       </tr>
       <tr>
-	<td><a href="https://github.com/halmesn/project-name"><b>🤓 project-name</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/project-name?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/project-name?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/project-name?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/halmesn/project-name?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/project-name?&style=flat-square"/></td>
+	<td><a href="https://github.com/halmesn/Wave"><b>🎵 Wave</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/halmesn/Wave?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/halmesn/Wave?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/halmesn/Wave?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/halmesn/Wave?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/halmesn/Wave?&style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
