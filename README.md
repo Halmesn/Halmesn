@@ -2,8 +2,8 @@
 
 <h2>Hey👋, I'm <a href="https://adrianli.vercel.app/">Adrian Li</a></h2>
 
-<p>I'm a self-taught Front-end developer as well as a passionate learner from Brisbane Australia🦘. I used to be a digital media editor✍️ for couple of years then I decided to change my career🤓</p> 
-<p>I love spending hours and hours building things👨‍💻, resolving problems✨, and learning new technologies💡</p>
+<p>I'm a self-taught Front-End developer as well as a passionate learner from Brisbane Australia🦘. I used to be a digital media editor✍️ for couple of years then I decided to change my career👨‍💻</p> 
+<p>I love spending hours and hours building things⚙️, resolving problems💡, and learning new technologies✨</p>
 <p><b>Programming makes me a happy man😄</b></p>
 
 <p><a href="https://adrianli.vercel.app/"><img src="https://img.shields.io/badge/-My portfolio-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=vercel&amp;link=https://adrianli.vercel.app/" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/adrian-li-332395208/"><img src="https://img.shields.io/badge/-@Adrian Li-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/adrian-li-332395208/" alt="LinkedIn Badge"></a> <img src="https://komarev.com/ghpvc/?username=halmesn&logoColor=white&color=59cdff" alt="halmesn" /></p>
@@ -12,12 +12,13 @@
 
 ### 🧐 More About Me:
 
-- 🔥 &nbsp;  One of my projects got **3.5k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
+- 🔥  &nbsp; One of my projects got **3.5k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
+- 🛠️ &nbsp; I’m currently building **[Griddy](https://github.com/Halmesn/Griddy)**
 - 🛠️ &nbsp; I’m currently building **[Griddy](https://github.com/Halmesn/Griddy)**
 - 🤝 &nbsp; I’m looking for a front-end develoment job at this moment
 - 🌱 &nbsp; I’m preparing [Front End interviews](https://h5bp.org/Front-end-Developer-Interview-Questions/questions/general-questions/) now
 - 📖 &nbsp; I'm going to learn TypeScript and tailwindcss next
-- 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
+- 💾 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Neh66oJyiG87217mAF55pRB-Lr48LvYK/view)
 - 📫 &nbsp; How to reach me: adrian.li.dev@gmail.com
