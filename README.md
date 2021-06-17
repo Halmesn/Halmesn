@@ -16,7 +16,7 @@
 - 🛠️ &nbsp; I’m currently building **[Griddy](https://github.com/Halmesn/Griddy)**
 - 🤝 &nbsp; I’m looking for a Front-End develoment job at this moment
 - 🌱 &nbsp; I’m learning [Epic React](https://epicreact.dev/) now
-- 📖 &nbsp; I'm going to learn TypeScript and TailwindCSS next
+- 📖 &nbsp; I'm going to learn GraphQ, TypeScript and TailwindCSS during the second half of 2021
 - 💾 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Neh66oJyiG87217mAF55pRB-Lr48LvYK/view)
