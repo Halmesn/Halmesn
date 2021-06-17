@@ -13,7 +13,7 @@
 ### 🧐 More About Me:
 
 - 🔥  &nbsp; One of my projects got **3.5k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
-- 🛠️ &nbsp; I’m currently building **[Griddy](https://github.com/Halmesn/Griddy)**
+- 🛠️ &nbsp; I’m currently building **[tutorial projects](https://advancedreact.com/)**
 - 🤝 &nbsp; I’m looking for a Front-End develoment job at this moment
 - 🌱 &nbsp; I’m learning [Fullstack Advanced React & GraphQL](https://advancedreact.com/) now
 - 📖 &nbsp; I'm going to learn TypeScript and TailwindCSS during the second half of 2021
