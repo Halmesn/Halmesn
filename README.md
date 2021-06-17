@@ -14,16 +14,16 @@
 
 - 🔥  &nbsp; One of my projects got **3.5k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
 - 🛠️ &nbsp; I’m currently building **[Griddy](https://github.com/Halmesn/Griddy)**
-- 🤝 &nbsp; I’m looking for a front-end develoment job at this moment
+- 🤝 &nbsp; I’m looking for a Front-End develoment job at this moment
 - 🌱 &nbsp; I’m learning [Epic React](https://epicreact.dev/) now
-- 📖 &nbsp; I'm going to learn TypeScript and tailwindcss next
+- 📖 &nbsp; I'm going to learn TypeScript and TailwindCSS next
 - 💾 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Neh66oJyiG87217mAF55pRB-Lr48LvYK/view)
 - 📫 &nbsp; How to reach me: adrian.li.dev@gmail.com
  ### ⚡ Fun facts:
-- 💪 &nbsp; I'm a gym rat. Checkout my [Instagram](https://www.instagram.com/xiaxi.lifts/) to see my workouts.
-- 🎮 &nbsp; In my spare time, I play video games on PS4. Friend me on [PSN](https://my.playstation.com/profile/Halmesn).
+- 💪 &nbsp; I'm a gym rat. Checkout my [Instagram](https://www.instagram.com/xiaxi.lifts/) to see my workouts
+- 🎮 &nbsp; In my spare time, I play video games on PS4. Friend me on [PSN](https://my.playstation.com/profile/Halmesn)
 
 ### 🔨 Languages and Tools:
   <p>
