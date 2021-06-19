@@ -13,9 +13,9 @@
 ### 🧐 More About Me:
 
 - 🔥  &nbsp; One of my projects got **3.5k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
-- 🛠️ &nbsp; I’m currently building **[tutorial projects](https://advancedreact.com/)**
+- 🛠️ &nbsp; I’m currently building **[tutorial projects](https://epicreact.dev/)**
 - 🤝 &nbsp; I’m looking for a Front-End develoment job at this moment
-- 🌱 &nbsp; I’m learning [Fullstack Advanced React & GraphQL](https://advancedreact.com/) now
+- 🌱 &nbsp; I’m learning [Epic React](https://epicreact.dev/) now
 - 📖 &nbsp; I'm going to learn TypeScript during the second half of 2021
 - 💾 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
@@ -30,11 +30,10 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-styled_components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-styled--components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
   </p>
