@@ -13,9 +13,9 @@
 ### 🧐 More About Me:
 
 - 🔥  &nbsp; One of my projects got **3.5k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
-- 🛠️ &nbsp; I’m currently building **[tutorial projects](https://epicreact.dev/)**
+- 🛠️ &nbsp; I’m currently **[preparing for interviews](https://github.com/h5bp/Front-end-Developer-Interview-Questions)**
 - 🤝 &nbsp; I’m looking for a Front-End develoment job at this moment
-- 🌱 &nbsp; I’m learning [Epic React](https://epicreact.dev/) now
+- 🌱 &nbsp; I’m learning [ds/algo](https://leetcode.com/) now
 - 📖 &nbsp; I'm going to learn TypeScript during the second half of 2021
 - 💾 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
