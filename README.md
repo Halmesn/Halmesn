@@ -17,7 +17,7 @@
 - 🛠️ &nbsp; I’m currently **[preparing for interviews](https://github.com/h5bp/Front-end-Developer-Interview-Questions)**
 - 🤝 &nbsp; I’m looking for a Front-End develoment job at this moment
 - 🌱 &nbsp; I’m learning [ds/algo](https://leetcode.com/) now
-- 📖 &nbsp; I'm going to learn TypeScript during the second half of 2021
+- 📖 &nbsp; I'm going to learn JS Testing during the second half of 2021
 - 💾 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Neh66oJyiG87217mAF55pRB-Lr48LvYK/view)
