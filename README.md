@@ -15,7 +15,7 @@
 - 🔥  &nbsp; One of my projects got **3.5k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
 - 🍿  &nbsp; I was interviewed for a senior position by [Netflix](https://www.reddit.com/r/webdev/comments/o7gg1p/after_8_months_of_selftaught_i_was_approached_by/) after 8 months of self-taught.
 - 🛠️ &nbsp; I’m currently **[preparing for interviews](https://github.com/h5bp/Front-end-Developer-Interview-Questions)**
-- 🤝 &nbsp; I’m looking for a Front-End develoment job at this moment
+- 🤝 &nbsp; I’m looking for Front-End related jobs at this moment
 - 🌱 &nbsp; I’m learning [ds/algo](https://leetcode.com/) now
 - 📖 &nbsp; I'm going to learn JS Testing during the second half of 2021
 - 💾 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
