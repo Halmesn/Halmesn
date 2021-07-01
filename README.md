@@ -12,7 +12,7 @@
 
 ### 🧐 More About Me:
 
-- 🔥  &nbsp; One of my projects got **3.5k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
+- 🔥  &nbsp; One of my projects got **3.6k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
 - 🍿  &nbsp; I was interviewed for a senior position by [Netflix](https://www.reddit.com/r/webdev/comments/o7gg1p/after_8_months_of_selftaught_i_was_approached_by/) after 8 months of self-taught.
 - 🛠️ &nbsp; I’m currently **[preparing for interviews](https://github.com/h5bp/Front-end-Developer-Interview-Questions)**
 - 🤝 &nbsp; I’m looking for Front-End related jobs at this moment
