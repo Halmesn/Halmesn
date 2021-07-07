@@ -2,7 +2,7 @@
 
 <h2>Hey👋, I'm <a href="https://adrianli.vercel.app/">Adrian Li</a></h2>
 
-<p>I'm a self-taught Front-End developer as well as a passionate learner from Brisbane Australia🦘. I used to be a digital media editor✍️ for couple of years then I decided to change my career👨‍💻</p> 
+<p>I'm a Front-End developer based in Brisbane Australia🦘. I'm currently working at Komatsu Mining👨‍💻</p> 
 <p>I love spending hours and hours building things⚙️, resolving problems💡, and learning new technologies✨</p>
 <p><b>Programming makes me a happy man😄</b></p>
 
@@ -14,9 +14,8 @@
 
 - 🔥  &nbsp; One of my projects got **3.6k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
 - 🍿  &nbsp; I was interviewed for a senior position by [Netflix](https://www.reddit.com/r/webdev/comments/o7gg1p/after_8_months_of_selftaught_i_was_approached_by/) after 8 months of self-taught.
-- 🛠️ &nbsp; I’m currently **[preparing for interviews](https://github.com/h5bp/Front-end-Developer-Interview-Questions)**
-- 🤝 &nbsp; I’m looking for Front-End related jobs at this moment
-- 🌱 &nbsp; I’m learning [ds/algo](https://leetcode.com/) now
+- 🛠️ &nbsp; I’m building **[my portfolio V2](https://github.com/h5bp/Front-end-Developer-Interview-Questions)** at this moment.
+- 🌱 &nbsp; I’m learning [testing](https://testingjavascript.com/) recently.
 - 📖 &nbsp; I'm going to learn JS Testing during the second half of 2021
 - 💾 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
@@ -36,7 +35,6 @@
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
   </p>
