@@ -14,9 +14,9 @@
 
 - 🔥  &nbsp; One of my projects got **3.6k upvotes** on [Reddit](https://www.reddit.com/r/learnprogramming/comments/nj6ccv)
 - 🍿  &nbsp; I was interviewed for a senior position by [Netflix](https://www.reddit.com/r/webdev/comments/o7gg1p/after_8_months_of_selftaught_i_was_approached_by/) after 8 months of self-taught.
-- 🛠️ &nbsp; I’m building **[my portfolio V2](https://github.com/h5bp/Front-end-Developer-Interview-Questions)** at this moment.
-- 🌱 &nbsp; I’m learning [testing](https://testingjavascript.com/) recently.
-- 📖 &nbsp; I'm going to learn JS Testing during the second half of 2021
+- 🛠️ &nbsp; I’m rebuilding **[my portfolio](https://github.com/Halmesn/portfolio-v1)** at this moment.
+- 🌱 &nbsp; I’m also learning [JS Testing](https://testingjavascript.com/) recently.
+- 📖 &nbsp; I'm going to learn 3d JavaScript during the second half of 2021
 - 💾 &nbsp; All of my projects are available on [Github](https://github.com/Halmesn)
 - 🏦 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adrian-li-332395208/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Neh66oJyiG87217mAF55pRB-Lr48LvYK/view)
