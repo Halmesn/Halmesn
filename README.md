@@ -1,6 +1,6 @@
 <img src="https://github.com/Halmesn/Halmesn/blob/main/assets/github.gif" />
 
-<h2>Hey👋, I'm <a href="https://adrianli.vercel.app/">Adrian Li</a></h2>
+<h2>Hey👋, I'm <a href="https://adrian-li.vercel.app/">Adrian Li</a></h2>
 
 <p>I'm a Front-End developer based in Brisbane Australia🦘. I'm currently working at Komatsu Mining👨‍💻</p> 
 <p>I love spending hours and hours building things⚙️, resolving problems💡, and learning new technologies✨</p>
